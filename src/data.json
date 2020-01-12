@@ -1,0 +1,28 @@
+{ "nav": [
+    {
+        "id": "betterHealth",
+        "title": "Better health",
+        "bkgrd": "#ffc627"
+    },
+    {
+        "id": "betterPlanet",
+        "title": "Better planet",
+        "bkgrd": "#000"
+    },
+    {
+        "id": "betterLife",
+        "title": "Better life",
+        "bkgrd": "#8c1d40"
+    }
+],
+  "healthSection": [
+    {
+        "id": "DogMemoryMaze.mp4",
+        "title": "Dogs: More than A Best Friend",
+        "summary": "Dogs are the only species other than monkeys that spontaneously develop symptoms resembling Alzheimer's disease. At ASU's Canine Science Collaboratory, researchers work to study memory loss in dogs and develop new research that can advance our understanding of memory in dogs and humans."
+    }
+]
+
+
+}
+
