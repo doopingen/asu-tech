@@ -1,28 +1,111 @@
 { "nav": [
-    {
-        "id": "betterHealth",
-        "title": "Better health",
-        "bkgrd": "#ffc627"
-    },
-    {
-        "id": "betterPlanet",
-        "title": "Better planet",
-        "bkgrd": "#000"
-    },
-    {
-        "id": "betterLife",
-        "title": "Better life",
-        "bkgrd": "#8c1d40"
-    }
+  {
+      "id": "health",
+      "title": "Better health",
+      "imgsrc": "http://asu-tech.norvision.com/images/better-health.png",
+      "bkgrd": "#ffc627"
+  },
+  {
+      "id": "planet",
+      "title": "Better planet",
+      "imgsrc": "http://asu-tech.norvision.com/images/better-planet.png",
+      "bkgrd": "#000"
+  },
+  {
+      "id": "title",
+      "title": "Better life",
+      "imgsrc": "http://asu-tech.norvision.com/images/better-life.png",
+      "bkgrd": "#8c1d40"
+  }
 ],
-  "healthSection": [
-    {
-        "id": "DogMemoryMaze.mp4",
-        "title": "Dogs: More than A Best Friend",
-        "summary": "Dogs are the only species other than monkeys that spontaneously develop symptoms resembling Alzheimer's disease. At ASU's Canine Science Collaboratory, researchers work to study memory loss in dogs and develop new research that can advance our understanding of memory in dogs and humans."
-    }
-]
-
-
-}
+"healthSection": [
+  {
+      "id": "DogMemoryMaze.mp4",
+      "title": "Dogs: More than A Best Friend",
+      "summary": "Dogs are the only species other than monkeys that spontaneously develop symptoms resembling Alzheimer's disease. At ASU's Canine Science Collaboratory, researchers work to study memory loss in dogs and develop new research that can advance our understanding of memory in dogs and humans.",
+      "img": "http://asu-tech.norvision.com/thumbs/DogMemoryMaze.png"
+  },
+  {
+      "id": "Ebola.mp4",
+      "title": "Using Tobacco to Save Lives (3:03)",
+      "summary": "Recent outbreaks of Ebola caught the whole world off guard. But Charles Arntzen, co-founder of ASU's Biodesign Institute had an idea. What if Tobacco plants could be used to develop antibodies that fight Ebola? His research led to ZMapp, an experimental drug that might be the breakthrough we need to treat Ebola quickly at a much lower cost.",
+      "img": "http://asu-tech.norvision.com/thumbs/EbolaBigIdea.png"
+  },
+  {
+      "id": "LivingDrug.mp4",
+      "title": "Fighting Disease in Space (1:55)",
+      "summary": "Gravity has a unique ability to mask certain cellular responses of bacteria. Cheryl Nickerson of ASU's Center for Infectious Disease and Vaccinology is studying bacteria in space to help develop new practices for the detection, prevention, and treatment of disease on Earth.",
+      "img": "http://asu-tech.norvision.com/thumbs/EbolaBigIdea.png"
+  },
+  {
+      "id": "LaserFocus.mp4",
+      "title": "Developing Lasers to Study Proteins (3:06)",
+      "summary": "Researchers at ASU are building a powerful tool, the Compact X-Ray Free Electron Laser, which is capable of taking images of proteins in action. This new technology could unlock the mysteries of photosynthesis and create new discoveries in renewable energy, medicine, and medical imaging.",
+      "img": "http://asu-tech.norvision.com/thumbs/LaserFocus.png"
+  }
+],
+"planetsection": [
+  {
+    "id": "33Buckets.mp4",
+    "title": "33 Buckets (1:10)",
+    "summary": "Mark Huerta, an ASU doctoral alum and CEO of nonprofit 33 Buckets, is helping communities in underdeveloped countries gain access to clean drinking water.",
+    "img": "http://asu-tech.norvision.com/thumbs/33BucketsThumbnail.png"
+  },
+  {
+    "id": "KlausLackner.mp4",
+    "title": "Mechanical Trees (2:27)",
+    "summary": "Our entire energy system is dependent on fossil fuels. ASU Professor Klaus Lackner is cleaning the air with mechanical trees. These new devices collect CO2 from the atmosphere in a way that is 1,000x more effective than a single tree and allows it to be sold and re-used around the world.",
+    "img": "http://asu-tech.norvision.com/thumbs/MechanicalTreesKlausLackner.png"
+  },
+  {
+    "id": "Oceans.mp4",
+    "title": "Oceans (1:09)",
+    "summary": "By the year 2050, there will be more plastic in the ocean than fish. ASU student Charles Rolsky puts his passion for saving the world’s oceans into action through a life-changing experience with renowned ASU Professor Rolf Halden.",
+    "img": "http://asu-tech.norvision.com/thumbs/Oceans.png"
+  },
+  {
+    "id": "SolarMedical.mp4",
+    "title": "Off the Grid Medical Clinics (1:37)",
+    "summary": "ASU Graduate student Cody Van Cleve uses solar energy and self-contained water filtration systems to create medical clinics that run completely off the grid.",
+    "img": "http://asu-tech.norvision.com/thumbs/SolarMedicalCenter.png"
+  },
+  {
+    "id": "ZeroMassWater.mp4",
+    "title": "Sun + Air = Water (6:54)",
+    "summary": "Zero Mass Water has developed SOURCE Hydropanels, which act like solar panels but instead of making electricity, the make drinking water. See how they are working to create mineral-enhanced drinking water from nothing more than sun and air. ",
+    "img": "http://asu-tech.norvision.com/thumbs/ZeroMassWater.png"
+  }
+],
+"lifesection": [
+  {
+    "id": "RobotsAreHelperbots.mp4",
+    "title": "Bio-Inspired Robotics (1:20)",
+    "summary": "Robots are capable of doing tasks that humans can't. ASU assistant professor Hamid Marvi shows how bio-inspired design helps robots accomplish complicated tasks in space exploration and search &amp; rescue.",
+    "img": "http://asu-tech.norvision.com/thumbs/RobotsAreHelperBots.png"
+  },
+  {
+    "id": "DroneStudio.mp4",
+    "title": "The Drone Studio (2:50)",
+    "summary": "Outfitted with more than 100 high-precision, infrared cameras and a 3D tracking system, ASU's new drone testing facility will serve as a hub to study multi-robot swarming, cyber-physical systems and human-robot interactions.",
+    "img": "http://asu-tech.norvision.com/thumbs/DroneStudio.png"
+  },
+  {
+    "id": "FlexibleBatteries.mp4",
+    "title": "Flexible Batteries (2:18)",
+    "summary": "Flexible energy storage is the key to powering the technology of tomorrow. Watch as ASU students develop a flexible battery design that successfully powers a smartwatch.",
+    "img": "http://asu-tech.norvision.com/thumbs/FlexBatteryWatch.png"
+  },
+  {
+    "id": "RobotArmRaytheon.mp4",
+    "title": "Student-Led Robotics Solutions (1:12)",
+    "summary": "When Raytheon needed help getting their robotic arm operational, they turned to ASU's eProjects program to find a solution. The students had the arm fully functioning in just 60 days.",
+    "img": "http://asu-tech.norvision.com/thumbs/RaytheonRobotArmProjectRecap.png"
+  },
+  {
+    "id": "RobotBasketball.mp4",
+    "title": "A Robot Learns to Play Basketball (1:57)",
+    "summary": "ASU's Interactive Robotics Lab uses reinforcement learning to teach their bi-manual robot to shoot a ball through a hoop. Using their algorithm, the robot learned the task in only 2 hours.",
+    "img": "http://asu-tech.norvision.com/thumbs/RobotBasketball.png"
+  }
+]}
 

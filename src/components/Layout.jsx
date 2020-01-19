@@ -7,7 +7,7 @@ const layout = (props) => {
     return(
       <body>
         <Video />
-        <Nav />
+        <Nav derp={props.derp} navOpts={props.navOpts}/>
       </body>
     )
 }

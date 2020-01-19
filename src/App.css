@@ -17,12 +17,26 @@ body {
 
 .nav {
   height: 12.25%;
-  position:  absolute;
+  width: 100%;
+  position: absolute;
   bottom:0;
-  left:40px;
   z-index: 1;
 }
 
-.nav-item {
+.nav-container {
+  display:flex;
+  justify-content:center;
+  padding:0px
+}
+
+.nav-item-landing-small {
+  list-style: none;
   display: inline-block;
+  text-align:center;
+}
+
+.nav-item-landing-large {
+  list-style: none;
+  display: inline-block;
+  text-align:center;
 }
